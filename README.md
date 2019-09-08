@@ -1,4 +1,4 @@
-"# zhengfang_login"
+# zhengfang_login
 
 `train_model.py` 训练 CNN 模型  
 `predict_model` 加载模型预测脚本  
